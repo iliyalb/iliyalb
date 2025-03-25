@@ -1,13 +1,11 @@
-### Greetings, I'm Iliya and you're browsing my profile, how exciting! 🤩🎉
+# Hi there, I'm Iliya 👋
 
-![iliyalb's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliyalb&show_icons=true&theme=transparent)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliyalb&langs_count=8&layout=compact&theme=transparent)](https://github.com/iliyalb/github-readme-stats)
+Welcome to my profile
 
-- 🔭 I’m currently working on different projects
-- 🌱 I’m always learning something new
-- 👯 I’m looking to collaborate on anything fun
-- 🤔 I’m looking for help with expanding my skillset
-- 💬 Ask me about game libariers I can definitely help you out
-- 📫 How to reach me: @iliyalb on your favorite socials
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use Discord light theme
+| ✉️ Contact | 🥷🏻 Skills | 🚀 Statistics |
+|------------|------------|---------------|
+| - **Email**: [iliyalesani@gmail.com](mailto:iliyalesani@gmail.com) <br> - **Resume**: [LinkedIn Profile](https://www.linkedin.com/in/iliyalb/) <br> - **Twitter**: [@iliyalb](https://x.com/iliyalb) | - **Languages**: C/C++, Rust, Zig <br> - **Tools**: SDL, Crow, Tauri <br> - **Other**: NetOps, DevOps | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliyalb&langs_count=8&layout=compact&theme=transparent)](https://github.com/iliyalb/github-readme-stats) |
+
+## 🤝🏻 Let's Connect
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
