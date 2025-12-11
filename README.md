@@ -1,5 +1,11 @@
 # greetings! <img src="wave.gif" width="30">
 
+<div align="center">
+    <img src="banner.svg" />
+</div>
+
+# skill *(issue)* 🗿
+
 <table style="margin-left: auto; margin-right: auto;" markdown="1">
     <tr>
         <th style="text-align: left;">stack</th>
