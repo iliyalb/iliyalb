@@ -44,6 +44,10 @@
 ![Cosmic](https://img.shields.io/badge/DE-Cosmic-informational?style=flat&logo=wayland&color=FFA70E)
 ![Vulkan](https://img.shields.io/badge/API-Vulkan-informational?style=flat&logo=vulkan&color=741618)
 
+# mood <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+
+<img src="assets/song.svg"/>
+
 # wisdom <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
 
 ```
