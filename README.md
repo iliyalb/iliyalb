@@ -50,6 +50,11 @@
 
 # wisdom <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
 
+<div align="center">
+    <sub>Node Graph out of Date. Rebuilding...</sub>
+</div>
+<hr/>
+
 ```
  _________________________________________
 / if practice makes perfect, and nobody's \
