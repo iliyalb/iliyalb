@@ -1,7 +1,7 @@
-# greetings! <img src="wave.gif" width="30">
+# greetings! <img src="assets/wave.gif" width="30">
 
 <div align="center">
-    <img src="banner.svg" />
+    <img src="assets/banner.svg" />
 </div>
 
 # skill *(issue)* 🗿
@@ -33,7 +33,7 @@
         <img src="https://github-readme-stats-iota-virid-44.vercel.app/api/top-langs/?username=iliyalb&langs_count=8&layout=compact&show_icons=true&theme=transparent" alt="https://github.com/iliyalb/github-readme-stats" width="300" height="200" />
     </td>       
     <td>
-        <img alt="snake walking" src="snake.gif" alt="wide snake" width="200" height="200"/>
+        <img alt="snake walking" src="assets/snake.gif" alt="wide snake" width="200" height="200"/>
     </td>
   </tr>
 </table>
@@ -59,6 +59,6 @@
 ```
 
 <details>
-  <summary><img alt="octocat idle" align="left" src="octocat.gif" width="35"> my secret</summary>
+  <summary><img alt="octocat idle" align="left" src="assets/octocat.gif" width="35"> my secret :3</summary>
   ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️ 
 </details>
