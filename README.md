@@ -38,10 +38,21 @@
 ![Cosmic](https://img.shields.io/badge/DE-Cosmic-informational?style=flat&logo=wayland&color=FFA70E)
 ![Vulkan](https://img.shields.io/badge/API-Vulkan-informational?style=flat&logo=vulkan&color=741618)
 
-<img alt="octocat idle" align="left" src="octocat.gif" width="30">
+# wisdom <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+
+```
+ _________________________________________
+/ if practice makes perfect, and nobody's \
+\ perfect, why practice?                  /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 <details>
-  <summary>my secret</summary>
-  ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️
+  <summary><img alt="octocat idle" align="left" src="octocat.gif" width="35"> my secret</summary>
+  ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️ 
 </details>
-
