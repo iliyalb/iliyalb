@@ -31,3 +31,9 @@
     </td>
   </tr>
 </table>
+
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624)
+![Arch](https://img.shields.io/badge/BTW-Arch-informational?style=flat&logo=archlinux&color=1793D1)
+![Zed](https://img.shields.io/badge/IDE-Zed-informational?style=flat&logo=zedindustries&color=1CB23E)
+![Cosmic](https://img.shields.io/badge/DE-Cosmic-informational?style=flat&logo=wayland&color=FFA70E)
+![Vulkan](https://img.shields.io/badge/API-Vulkan-informational?style=flat&logo=vulkan&color=741618)
