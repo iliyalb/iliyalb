@@ -27,7 +27,7 @@
         <img src="https://github-readme-stats-iota-virid-44.vercel.app/api/top-langs/?username=iliyalb&langs_count=8&layout=compact&show_icons=true&theme=transparent" alt="https://github.com/iliyalb/github-readme-stats" width="300" height="200" />
     </td>       
     <td>
-        <img src="snake.gif" alt="wide snake" width="200" height="200"/>
+        <img alt="snake walking" src="snake.gif" alt="wide snake" width="200" height="200"/>
     </td>
   </tr>
 </table>
@@ -37,3 +37,11 @@
 ![Zed](https://img.shields.io/badge/IDE-Zed-informational?style=flat&logo=zedindustries&color=1CB23E)
 ![Cosmic](https://img.shields.io/badge/DE-Cosmic-informational?style=flat&logo=wayland&color=FFA70E)
 ![Vulkan](https://img.shields.io/badge/API-Vulkan-informational?style=flat&logo=vulkan&color=741618)
+
+<img alt="octocat idle" align="left" src="octocat.gif" width="30">
+
+<details>
+  <summary>my secret</summary>
+  ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️
+</details>
+
