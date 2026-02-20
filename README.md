@@ -1,10 +1,10 @@
-# greetings! <img src="assets/wave.gif" width="30">
+<!-- # greetings! <img src="assets/wave.gif" width="30"> -->
 
 <div align="center">
     <img src="assets/banner.svg" />
 </div>
 
-# skill *(issue)* 🗿
+<!-- # skill *(issue)* 🗿 -->
 
 <table style="margin-left: auto; margin-right: auto;" markdown="1">
     <tr>
@@ -28,10 +28,10 @@
                 <img src="https://img.shields.io/badge/Kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=white&logoSize=auto" alt="Kibana" />
             </li>
         </ul>
-    </td>        
+    </td>
     <td>
-        <img src="https://github-readme-stats-iota-virid-44.vercel.app/api/top-langs/?username=iliyalb&langs_count=8&layout=compact&show_icons=true&theme=transparent" alt="https://github.com/iliyalb/github-readme-stats" width="300" height="200" />
-    </td>       
+        <!-- <img src="https://github-readme-stats-iota-virid-44.vercel.app/api/top-langs/?username=iliyalb&langs_count=8&layout=compact&show_icons=true&theme=transparent" alt="https://github.com/iliyalb/github-readme-stats" width="300" height="200" /> -->
+    </td>
     <td>
         <img alt="snake walking" src="assets/snake.gif" alt="wide snake" width="200" height="200"/>
     </td>
@@ -44,22 +44,23 @@
 ![Cosmic](https://img.shields.io/badge/DE-Cosmic-informational?style=flat&logo=wayland&color=FFA70E)
 ![Vulkan](https://img.shields.io/badge/API-Vulkan-informational?style=flat&logo=vulkan&color=741618)
 
-🔗 [my dotfiles](https://github.com/iliyalb/dotfiles)
+<!-- 🔗 [my dotfiles](https://github.com/iliyalb/dotfiles) -->
 
-# mood <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+<!-- # mood <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
 
 <img src="assets/song.svg"/>
 
-🔗 [my music playlist](https://www.youtube.com/playlist?list=PL0o9aWyhb7ocxwDBYhzukikXmlB7SwXgm)
+🔗 [my music playlist](https://www.youtube.com/playlist?list=PL0o9aWyhb7ocxwDBYhzukikXmlB7SwXgm) -->
 
-# wisdom <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+<!-- # wisdom <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/> -->
 
+<hr/>
 <div align="center">
     <sub>Node Graph out of Date. Rebuilding...</sub>
 </div>
 <hr/>
 
-```
+<!-- ```text
  _________________________________________
 / if practice makes perfect, and nobody's \
 \ perfect, why practice?                  /
@@ -69,9 +70,9 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-```
+``` -->
 
-<details>
+<!-- <details>
   <summary><img alt="octocat idle" align="left" src="assets/octocat.gif" width="35"> my secret :3</summary>
   ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️ 
-</details>
+</details> -->
