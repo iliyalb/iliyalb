@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 420" width="540" height="420">
+  <defs>
+    <!-- glow filters -->
+    <filter id="glow-gray" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#555555" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-green" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#178600" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-peach" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#DEA584" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-cyan" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#00ADD8" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-purple" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#663399" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- top face -->
+    <linearGradient id="shine-top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="white" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Y axis -->
+  <line x1="148" y1="48" x2="148" y2="338" stroke="#1113EA" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- X axis -->
+  <line x1="148" y1="338" x2="400" y2="338" stroke="#08F808" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Z axis -->
+  <line x1="148" y1="338" x2="168" y2="315" stroke="#D82A27" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- arrowheads -->
+  <polygon points="148,42 143,56 153,56" fill="#1113EA"/>
+  <polygon points="406,338 393,333 393,343" fill="#08F808"/>
+  <polygon points="172,308 167,310 170,320" fill="#D82A27"/>
+
+  <!-- segment 50% -->
+  <g filter="url(#glow-gray)">
+    <!-- front -->
+    <rect x="175" y="180" width="110" height="150" fill="#555555"/>
+    <!-- right -->
+    <polygon points="285,330 313,316 313,166 285,180" fill="#333333"/>
+    <!-- top -->
+    <polygon points="175,180 285,180 313,166 203,166" fill="#777777"/>
+    <!-- shine -->
+    <polygon points="175,180 285,180 313,166 203,166" fill="url(#shine-top)"/>
+  </g>
+  <text x="230" y="261" font-family="'Courier New', Courier, monospace" font-size="15" font-weight="700"
+        fill="white" text-anchor="middle" dominant-baseline="middle">C/C++</text>
+
+  <!-- segment 20% -->
+  <g filter="url(#glow-green)">
+    <!-- front -->
+    <rect x="175" y="120" width="110" height="60" fill="#178600"/>
+    <!-- right -->
+    <polygon points="285,180 313,166 313,106 285,120" fill="#0a4f00"/>
+    <!-- top -->
+    <polygon points="175,120 285,120 313,106 203,106" fill="#1faa00"/>
+    <polygon points="175,120 285,120 313,106 203,106" fill="url(#shine-top)"/>
+  </g>
+  <text x="230" y="151" font-family="'Courier New', Courier, monospace" font-size="15" font-weight="700"
+        fill="white" text-anchor="middle" dominant-baseline="middle">C#</text>
+
+  <!-- segment 15% -->
+  <g filter="url(#glow-peach)">
+    <!-- front -->
+    <rect x="175" y="75" width="110" height="45" fill="#DEA584"/>
+    <!-- right -->
+    <polygon points="285,120 313,106 313,61 285,75" fill="#a06a4a"/>
+    <!-- top -->
+    <polygon points="175,75 285,75 313,61 203,61" fill="#edc0a8"/>
+    <polygon points="175,75 285,75 313,61 203,61" fill="url(#shine-top)"/>
+  </g>
+  <text x="230" y="99" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700"
+        fill="#3a1a00" text-anchor="middle" dominant-baseline="middle">Rust</text>
+
+  <!-- segment 10% -->
+  <g filter="url(#glow-cyan)">
+    <!-- front -->
+    <rect x="175" y="45" width="110" height="30" fill="#00ADD8"/>
+    <!-- right -->
+    <polygon points="285,75 313,61 313,31 285,45" fill="#007595"/>
+    <!-- top -->
+    <polygon points="175,45 285,45 313,31 203,31" fill="#33c8e8"/>
+    <polygon points="175,45 285,45 313,31 203,31" fill="url(#shine-top)"/>
+  </g>
+  <text x="230" y="61" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700"
+        fill="white" text-anchor="middle" dominant-baseline="middle">Go</text>
+
+  <!-- segment 5% -->
+  <g filter="url(#glow-purple)">
+    <!-- front -->
+    <rect x="175" y="30" width="110" height="15" fill="#663399"/>
+    <!-- right -->
+    <polygon points="285,45 313,31 313,16 285,30" fill="#3d1f5c"/>
+    <!-- top -->
+    <polygon points="175,30 285,30 313,16 203,16" fill="#8844bb"/>
+    <polygon points="175,30 285,30 313,16 203,16" fill="url(#shine-top)"/>
+  </g>
+  <text x="230" y="38" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700"
+        fill="white" text-anchor="middle" dominant-baseline="middle">...</text>
+</svg>

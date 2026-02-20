@@ -30,7 +30,7 @@
         </ul>
     </td>
     <td>
-        <!-- <img src="https://github-readme-stats-iota-virid-44.vercel.app/api/top-langs/?username=iliyalb&langs_count=8&layout=compact&show_icons=true&theme=transparent" alt="https://github.com/iliyalb/github-readme-stats" width="300" height="200" /> -->
+        <img src="assets/chart.svg">
     </td>
     <td>
         <img alt="snake walking" src="assets/snake.gif" alt="wide snake" width="200" height="200"/>
